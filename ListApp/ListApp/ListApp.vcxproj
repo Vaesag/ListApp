@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClInclude Include="list_node.h" />
     <ClInclude Include="reader.h" />
+    <ClInclude Include="serializer.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="reader.cpp" />
+    <ClCompile Include="serializer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
