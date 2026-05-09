@@ -132,6 +132,7 @@
     <ClInclude Include="serializer.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="reader.cpp" />
     <ClCompile Include="serializer.cpp" />
   </ItemGroup>
